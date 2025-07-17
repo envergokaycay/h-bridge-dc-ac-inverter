@@ -52,27 +52,21 @@ The PCB for the inverter stage was fully fabricated by hand, using personal reso
 
 ## 📂 Suggested Folder Structure
 
-```
-DC-AC Inverter with H-Bridge/
-│
-├── Code/
-│
-├── Images and Presentation/
-│   ├── Operating.mp4/
-│   └── Wireless Electric Vehicle Charging System KTU EEE.mp4/
-│
-├── PCB/
-│   ├── 3D/
-│   └── BOM/
-│   └── Drill/
-│   └── Gerber/
-│
-├── Schematics/
-│
-├── Simulation Graphs/
-│
-└── README.md
-```
+- `DC-AC Inverter with H-Bridge/`  
+  ├── `Code/`  
+  ├── `Images and Presentation/`  
+    ├── [Operating.mp4](https://www.youtube.com/shorts/zgLSwQ5zg5Q)  
+    └── [Wireless Electric Vehicle Charging System KTU EEE.mp4](https://www.youtube.com/shorts/1_IPSUS-X5c)  
+  ├── `PCB/`  
+    ├── `3D/`  
+    ├── `BOM/`  
+    ├── `Drill/`  
+    └── `Gerber/`  
+  ├── `Schematics/`  
+  ├── `Simulation Graphs/`  
+  └── `README.md`
+
+---
 
 ## 📝 Notes
 
