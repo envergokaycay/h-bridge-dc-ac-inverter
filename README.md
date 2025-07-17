@@ -58,7 +58,7 @@ DC-AC Inverter with H-Bridge/
 ├── Code/
 │
 ├── Images and Presentation/
-│   ├── Operating.mp4/ [👉 Proje Tanıtım Videosunu İzle (YouTube Shorts)](https://www.youtube.com/shorts/zgLSwQ5zg5Q)
+│   ├── Operating.mp4/ [👉 Proje Tanıtım Videosunu İzle](https://youtube.com/shorts/zgLSwQ5zg5Q)
 │   └── Wireless Electric Vehicle Charging System KTU EEE.mp4/
 │
 ├── PCB/
