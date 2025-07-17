@@ -50,24 +50,30 @@ The PCB for the inverter stage was fully fabricated by hand, using personal reso
 
 ---
 
-## 📁 Suggested Folder Structure
+## 📂 Suggested Folder Structure
 
-This repository includes:
-
-ProjectRoot/
-├── Codes/ – Arduino code and related firmware files
-├── Image and Presentation/ – Poster, photos, and presentation videos
+```
+DC-AC Inverter with H-Bridge/
+│
+├── Codes/
+│   └── inverter_code.ino
+│
+├── Schematics/
+│   └── inverter_schematic.pdf
+│
 ├── PCB/
-│    ├── 3D/ – 3D renders of the PCB design
-│    ├── BOM/ – Bill of Materials
-│    ├── Drill/ – Drill files for fabrication
-│    ├── Gerber/ – Gerber files for PCB manufacturing
-│    ├── PCB/ – Circuit PCB files
-├── Schematics/ – Circuit schematic files (PDF and KiCad)
-├── Simulation Graphs/ – Output waveform and test graphs
-└── README.md – Project overview and documentation
-
----
+│   ├── PCB Design Files/
+│   └── 3D/
+│       └── DC-AC Inverter.step
+│
+├── Simulation/
+│   └── waveform_capture.png
+│
+├── Images/
+│   └── inverter_prototype.jpg
+│
+└── README.md
+```
 
 ## 📝 Notes
 
