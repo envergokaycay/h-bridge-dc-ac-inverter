@@ -6,6 +6,9 @@
 
 ![Operating Demo](Images%20and%20Presentation/Operating.gif)
 
+[👉 Proje Tanıtım Videosunu İzle](https://youtube.com/shorts/zgLSwQ5zg5Q)
+
+
 ## 📌 Project Summary
 This project presents a **wireless power transfer (WPT)** system prototype aimed at demonstrating the basic principles of resonant inductive coupling for electric vehicle (EV) charging applications. The prototype is based on an **Arduino-controlled** system that generates a high-frequency AC output using a **H-bridge inverter**, optimized for energy transfer over short distances via an air-core coil pair.
 
