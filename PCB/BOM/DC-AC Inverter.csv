@@ -1,0 +1,12 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"D2,D1";"D_DO-35_SOD27_P7.62mm_Horizontal";2;"1N4148";;;
+2;"D4,D3";"D_DO-41_SOD81_P10.16mm_Horizontal";2;"1N5817";;;
+3;"Q3,Q4,Q2,Q1";"TO-220-3_Vertical";4;"IRFZ46NPBF";;;
+4;"J7,J3,J2,J6";"PinHeader_1x01_P2.54mm_Vertical";4;"Conn_01x01_Pin";;;
+5;"J5,J4";"PinHeader_1x01_P2.54mm_Vertical";2;"Conn_01x01_Socket";;;
+6;"R1,R4,R2,R3";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";4;"10Ω";;;
+7;"C3";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";1;"330nF";;;
+8;"U3,U4";"YAAJ_DCDC_StepDown_LM2596";2;"YAAJ_DCDC_StepDown_LM2596";;;
+9;"U1,U2";"DIP-14_W7.62mm";2;"IR2110";;;
+10;"J1";"PinHeader_1x02_P2.54mm_Vertical";1;"Conn_01x02_Socket";;;
+11;"C1,C2";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";2;"0.1µF";;;
