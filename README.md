@@ -55,22 +55,19 @@ The PCB for the inverter stage was fully fabricated by hand, using personal reso
 ```
 DC-AC Inverter with H-Bridge/
 │
-├── Codes/
-│   └── inverter_code.ino
+├── Code/
 │
-├── Schematics/
-│   └── inverter_schematic.pdf
+├── Images and Presentation/
 │
 ├── PCB/
-│   ├── PCB Design Files/
-│   └── 3D/
-│       └── DC-AC Inverter.step
+│   ├── 3D/
+│   └── BOM/
+│   └── Drill/
+│   └── Gerber/
 │
-├── Simulation/
-│   └── waveform_capture.png
+├── Schematics/
 │
-├── Images/
-│   └── inverter_prototype.jpg
+├── Simulation Graphs/
 │
 └── README.md
 ```
